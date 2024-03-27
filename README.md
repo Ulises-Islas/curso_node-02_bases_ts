@@ -1,4 +1,4 @@
-This project have been create by following the "Node JS: De cero a experto" By Fernando Herrera's Udemy Course
+This project have been create by following the "Node JS: De cero a experto" Udemy's Course By Fernando Herrera
 
 To run this project you need to install all the dependencies with 
 ```
