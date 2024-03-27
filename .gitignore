@@ -12,3 +12,6 @@ dist/
 
 # Ignore the .env file
 .env
+
+# Ignore the coverage directory
+coverage/

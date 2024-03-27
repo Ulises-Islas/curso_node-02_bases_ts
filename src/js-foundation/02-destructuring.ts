@@ -3,7 +3,7 @@ const { PROMPT } = process.env
 
 //console.table(PROMPT);
 
-const characters = ['pipo1', 'pipo2', 'pipo3'];
+export const characters = ['pipo1', 'pipo2', 'pipo3'];
 
 const [uno, dos, tres] = characters;
 

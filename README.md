@@ -13,3 +13,14 @@ Once you have installed the dependencies, you can run the project with
 ```
 npm run dev
 ```
+
+If you want to run all the testing, you should use
+```
+npm run test
+```
+
+Or
+
+```
+npm run test:watch
+```
