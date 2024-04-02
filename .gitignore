@@ -15,3 +15,7 @@ dist/
 
 # Ignore the coverage directory
 coverage/
+
+# Ignore the OS generated files
+.DS_Store
+Thumbs.db
