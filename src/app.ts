@@ -1,9 +1,14 @@
-import { getPokemonById } from "./js-foundation/06-promises";
+/* import { getPokemonById } from "./js-foundation/06-promises";
 import { buildLogger } from "./plugins/logger.plugin";
 
 const logger = buildLogger('app');
 logger.log('Hola');
-logger.error('Hola diablo >:3');
+logger.error('Hola diablo >:3'); */
+
+
+
+
+
 /* const getPokemonById = require('./js-foundation/06-promises');
 
 getPokemonById(4)
